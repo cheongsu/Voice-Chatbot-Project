@@ -1,7 +1,8 @@
 <h1 align="center"> 
 23-1 KUBIG 침착맨 초대석 
 <h1/>
-  
+  <img width="1003" alt="스크린샷 2023-07-14 오전 1 12 43" src="https://github.com/cheongsu/Voice-Chatbot-Project/assets/103344737/4faddc58-f4e9-45b8-bd6e-38f1537ccb9b">
+
 ## 주제
 
 Glow-tts와 HiFi-GAN을 통한 침착맨 음성학습 및 kogpt Next Token Prediction Fine-tuning을 통한 침착맨 음성봇 제작 프로젝트
