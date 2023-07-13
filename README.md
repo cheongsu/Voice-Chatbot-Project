@@ -1,5 +1,5 @@
 <h1 align="center"> 
-23-1 KUBIG 침착맨 초대석
+23-1 KUBIG 침착맨 초대석 
 <h1/>
   
 ## 주제
